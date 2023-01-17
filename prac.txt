@@ -1,0 +1,17 @@
+What git command creates a branch?
+git checkout -b Branch_Name
+
+What is the difference between a fast-forward and recursive merge?
+When it is easy to git to tell when the commits happened.
+
+What git command changes to another branch?
+git checkout Branch_Name
+
+What git command deletes a branch?
+git branch -d Branch_Name
+git branch -D Branch_Name
+
+
+How do merge conflicts happen?
+when we have the same element but different values or the same file(Name) but different values s
+so git doesn't know which one to pick so we have to fix it ourselves.
